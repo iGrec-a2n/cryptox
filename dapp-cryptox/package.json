@@ -11,5 +11,9 @@
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox-viem": "^3.0.0",
     "hardhat": "^2.22.19"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^5.67.1",
+    "viem": "^2.23.6"
   }
 }
